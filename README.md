@@ -2,4 +2,4 @@
 ## Members
 Arnold Bennet  
 Anees                       
-Sandra Santhosh
+sandra Santhosh

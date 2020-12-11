@@ -1,6 +1,4 @@
 # Weather-Forcasting
 ## Members
-Arnold Bennet
-Anees
-
-
+1.Arnold Bennet
+2.Anees
